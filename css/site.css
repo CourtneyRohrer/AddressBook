@@ -8,3 +8,7 @@ body {
 .main-img {
     height: 400px;
 }
+
+.save {
+    text-align: right;
+}
